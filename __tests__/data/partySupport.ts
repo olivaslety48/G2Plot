@@ -1,4 +1,4 @@
-export const partySupport = [
+export const partySupport = [olivaslety48@gmail.com
   { date: '19/05/2006', type: 'FF', value: 3600 },
   { date: '19/05/2006', type: 'FG', value: 2500 },
   { date: '19/05/2006', type: 'Lab', value: 1300 },
